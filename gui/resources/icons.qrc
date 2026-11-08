@@ -1,0 +1,16 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource prefix="/">
+    <file>icons/appicon.svg</file>
+    <file>icons/import.svg</file>
+    <file>icons/export.svg</file>
+    <file>icons/zoom-in.svg</file>
+    <file>icons/zoom-out.svg</file>
+    <file>icons/fit.svg</file>
+    <file>icons/white-layer.svg</file>
+    <file>icons/ink-limit.svg</file>
+    <file>icons/settings.svg</file>
+    <file>icons/chevron-up.svg</file>
+    <file>icons/chevron-down.svg</file>
+  </qresource>
+</RCC>

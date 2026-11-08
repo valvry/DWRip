@@ -1,0 +1,9 @@
+build/
+/dwrip
+gui/build/
+gui/.qt/
+__pycache__/
+*.prn
+*.icc
+*.icm
+*.dwrip-profile
